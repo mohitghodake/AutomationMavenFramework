@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39914" started-at="2018-12-20T15:45:42Z" finished-at="2018-12-20T15:46:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39914" started-at="2018-12-20T15:45:42Z" finished-at="2018-12-20T15:46:22Z">
+      <class name="com.randomNumber.randomNumber">
+        <test-method status="PASS" signature="generateRandomNumber()[pri:0, instance:com.randomNumber.randomNumber@3d921e20]" name="generateRandomNumber" duration-ms="39880" started-at="2018-12-20T15:45:42Z" finished-at="2018-12-20T15:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateRandomNumber -->
+      </class> <!-- com.randomNumber.randomNumber -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
